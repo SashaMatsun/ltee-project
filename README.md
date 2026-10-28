@@ -54,9 +54,9 @@ Details, sample sheet and checksums are in `metadata/`.
 See `CITATION.cff`. GitHub shows a "Cite this repository" button for it.
 
 ## License
-
+s
 MIT, see `LICENSE`.
 
 ---
 Project layout generated from the CBIO7501 project template
-(<https://github.com/khan-lab/cbio7501-f26/tree/main/templates/cookiecutter-repro-project>).
+(<https://github.com/khan-lab/cbio7501-f26/tree/main/templates/cookiecutter-repro-project>). lols
